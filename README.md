@@ -1,2 +1,2 @@
-# Projeect Interest Calculator
+# Project Interest Calculator
 ## Editing the file
